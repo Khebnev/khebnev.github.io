@@ -41,3 +41,58 @@ footer{}
     display: inline-block;
     margin-right: 10px;
 }
+/*main__home*/
+
+.main__home{
+    height: 500px;
+    background-color: forestgreen;
+}
+.home__container{
+    padding-top: 70px;
+}
+.home__avatar{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+.home__name h2{
+    text-align: center;
+    font-size: 44px;
+    color: #fff;
+}
+.home__position{
+    text-align: center;
+    font-size: 28px;
+    color: #fff;
+}
+
+/*main__about*/
+.wrapper__about{
+    padding-left: 15%;
+    padding-right: 15%;
+    width: 70%;
+    margin: 0 auto;
+}
+.main__about{
+    height: 300px;
+    background-color: beige;
+}
+.about__title{
+    padding-top: 20px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-bottom: 20px;
+}
+.about__title h2{
+    text-align: center;
+}
+.about__text{
+    text-align: justify;
+}
+
+/*                main__skills         */
+
+.main__skills{
+    height: 500px;
+    background-color: aqua;
+}
