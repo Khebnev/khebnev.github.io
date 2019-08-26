@@ -87,6 +87,9 @@ footer{}
 }
 .about__title h2{
     text-align: center;
+    font-size: 28px;
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 .about__text{
     text-align: justify;
@@ -106,6 +109,7 @@ footer{}
 .skills__title{
     padding-top: 30px;
     padding-bottom: 30px;
+    font-size: 20px;
 }
 .skills__title h2{
     color: #169ada;
@@ -114,10 +118,15 @@ footer{}
     margin-block-end: 0;
 }
 
+.skills__container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
 /*LEFT SIDE*/
 
 .skills__left{
     width: 300px;
+    float: left;
 }
 
 .skills__left-title{
@@ -248,3 +257,131 @@ footer{}
     height: 10px;
     background-color: #0684c8;
 }
+
+/*                RIGHT SIDE             */
+
+.skills__right{
+    float: right;
+    width: 300px;
+}
+.skills__right-title{
+    background-color: #0084ce;
+    width: 250px;
+    height: 40px;
+    position: relative;
+    margin: 0 auto;
+    top: 21px;
+}
+
+.skills__right-title h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.languages__list{
+    list-style: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding: 30px 10px 10px 10px;
+    border: 3px solid #cecece;
+}
+.languages__list-item{
+    margin-bottom: 20px;
+}
+
+.languages__list-item-container{
+    padding-bottom: 10px;
+}
+
+
+.languages__name-russian{
+    float: left;
+}
+.languages__level-russian{
+    float: right;
+}
+.languages__line-russian{
+    width: 90%;
+    height: 10px;
+    background-color: #0084ce;
+}
+.languages__name-ukrainian{
+    float: left;
+}
+.languages__level-ukrainian{
+    float: right;
+}
+.languages__line-ukrainian{
+    width: 75%;
+    height: 10px;
+    background-color: #0084ce;
+}
+.languages__name-english{
+    float: left;
+}
+.languages__level-english{
+    float: right;
+}
+.languages__line-english{
+    width: 40%;
+    height: 10px;
+    background-color: #0084ce;
+}
+.languages__name-spanish{
+    float: left;
+}
+.languages__level-spanish{
+    float: right;
+}
+.languages__line-spanish{
+    width: 5%;
+    height: 10px;
+    background-color: #0084ce;
+}
+
+
+/*                PORTFOLIO                     */
+
+.main__portfolio{
+    background-color: #9283aa;
+    height: 500px;
+}
+.wrapper__portfolio{
+    width: 70%;
+    margin: 0 auto;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.portfolio__title{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #3e2a23;
+}
+.portfolio__title h2{
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
