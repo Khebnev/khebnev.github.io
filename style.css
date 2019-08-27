@@ -63,14 +63,8 @@ footer{}
     cursor: pointer;
 
 }
-/*
-.menu-list-item a:hover{
-    display: inline-block;
-    margin-right: 10px;
-    opacity: 1;
-    cursor: pointer;
-}
-*/
+
+
 /*main__home*/
 
 .main__home{
@@ -105,8 +99,6 @@ footer{}
 }
 .main__about{
     height: 300px;
-/*    background-color: beige;*/
-/*    background-color: #ffffff;*/
      background-color: #bababa;
 }
 .about__title{
@@ -378,7 +370,6 @@ footer{}
 
 .main__portfolio{
     background-color: #9283aa;
-/*    height: 500px;*/
 }
 .wrapper__portfolio{
     width: 70%;
@@ -415,14 +406,13 @@ footer{}
 .portfolio__project-container-1 a{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     text-decoration: none;
     color: #fff;
 }
 .portfolio__project-container-1:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
+
     text-decoration: none;
     color: #fff;
     opacity: 1;
@@ -430,20 +420,20 @@ footer{}
 .portfolio__project-container-2{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
+
     opacity: 0.8;
 
 }
 .portfolio__project-container-2:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
+
     opacity: 1;
 }
 .portfolio__project-container-2 a{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
+
     text-decoration: none;
     color: #fff;
 
@@ -451,20 +441,17 @@ footer{}
 .portfolio__project-container-3{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 0.8;
 
 }
 .portfolio__project-container-3:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 1;
 }
 .portfolio__project-container-3 a{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     text-decoration: none;
     color: #fff;
 
@@ -472,33 +459,28 @@ footer{}
 .portfolio__project-container-4{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 0.8;
 
 }
 .portfolio__project-container-4:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 1;
 }
 .portfolio__project-container-4 a{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     text-decoration: none;
     color: #fff;
 }
 .portfolio__project-container-5{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 0.8;
 
 }.portfolio__project-container-5:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 1;
 }
 .portfolio__project-container-5 a{
@@ -512,20 +494,17 @@ footer{}
 .portfolio__project-container-6{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 0.8;
 
 }
 .portfolio__project-container-6:hover{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     opacity: 1;
 }
 .portfolio__project-container-6 a{
     width: 300px;
     margin-right: 50px;
-/*    margin: 0 auto;*/
     text-decoration: none;
     color: #fff;
 
@@ -539,7 +518,6 @@ footer{}
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 10px;
-/*    margin: 0 auto;*/
 }
 .portfolio__project-description{
     text-align: center;
@@ -568,7 +546,6 @@ footer{}
     font-size: 28px;
 }
 .second-menu__list{
-/*    display: inline-block;*/
     list-style: none;
     float: left;
     padding-left: 5%;
@@ -606,7 +583,6 @@ footer{}
 
 .social__list{
     list-style: none;
-/*    display: inline-block;*/
     float: right;
     padding-right: 3%;
 }
@@ -632,7 +608,6 @@ footer{}
     width: 70%;
     padding-left: 15%;
     padding-right: 15%;
-/*    margin: 0 auto;*/
 
 }
 
