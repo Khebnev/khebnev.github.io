@@ -613,14 +613,30 @@ footer{}
 .social__list-item{
     display: inline-block;
     padding-right: 10px;
+    opacity: 0.3;
 }
+.social__list-item:hover{
+    display: inline-block;
+    padding-right: 10px;
+    opacity: 1;
+}
+
+/*
 .social__list-item img{
     width: 40px;
     height: 40px;
 
 }
 
-
+.social__facebook{
+    background-image: url(images/facebook-Icon-wb.png);
+}
+.social__facebook:hover{
+    width: 40px;
+    height: 40px;
+    background-image: url(images/facebook-Icon.png);
+}
+*/
 /*Foooter*/
 
 .page-footer{
