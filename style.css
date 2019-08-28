@@ -1,4 +1,6 @@
-body {
+body, html {
+    width: 100%;
+    height: 100%;
     padding: 0;
     margin: 0;
 }
@@ -14,7 +16,7 @@ footer{}
     clear: both;
 }
 .wrapper{
-    width: 70%;
+    width: 1200px;
     margin: 0 auto;
 }
 .header__logo{
@@ -92,9 +94,11 @@ footer{}
 
 /*main__about*/
 .wrapper__about{
+/*
     padding-left: 15%;
     padding-right: 15%;
-    width: 70%;
+*/
+/*    width: 70%;*/
     margin: 0 auto;
 }
 .main__about{
@@ -121,13 +125,16 @@ footer{}
 /*                main__skills         */
 
 .main__skills{
-    height: 800px;
+/*    height: 800px;*/
     background-color: #efefef;
+    padding-bottom: 20px;
 }
 .wrapper__skills{
-    width: 70%;
+/*    width: 70%;*/
+/*
     padding-left: 15%;
     padding-right: 15%;
+*/
 }
 .skills__title{
     padding-top: 30px;
@@ -372,10 +379,12 @@ footer{}
     background-color: #9283aa;
 }
 .wrapper__portfolio{
-    width: 70%;
+/*    width: 70%;*/
     margin: 0 auto;
+/*
     padding-left: 15%;
     padding-right: 15%;
+*/
 }
 
 .portfolio__title{
@@ -533,9 +542,9 @@ footer{}
 }
 
 .wrapper__contacts{
-    width: 70%;
-    padding-left: 15%;
-    padding-right: 15%;
+/*    width: 70%;*/
+/*    padding-left: 15%;*/
+/*    padding-right: 15%;*/
 }
 .contacts__title{
     padding-top: 30px;
@@ -605,9 +614,11 @@ footer{}
     background-color: #1a252f;
 }
 .wrapper__footer{
-    width: 70%;
+/*    width: 70%;*/
+/*
     padding-left: 15%;
     padding-right: 15%;
+*/
 
 }
 
