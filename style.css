@@ -1066,20 +1066,20 @@ footer{}
 }
 .portfolio__project-container-2{
     width: 240px;
-/*    margin-right: 10px;*/
+    margin-right: 10px;
 
     opacity: 0.8;
 
 }
 .portfolio__project-container-2:hover{
     width: 240px;
-/*    margin-right: 10px;*/
+    margin-right: 10px;
 
     opacity: 1;
 }
 .portfolio__project-container-2 a{
     width: 240px;
-/*    margin-right: 10px;*/
+    margin-right: 10px;
 
     text-decoration: none;
     color: #fff;
